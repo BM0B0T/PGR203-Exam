@@ -1,3 +1,4 @@
+![Java CI with Maven](https://github.com/97krihop/pgr203eksamen/workflows/Java%20CI%20with%20Maven/badge.svg?branch=main)
 
 # PGR203 exam HTTP Server 
 ## Description:
