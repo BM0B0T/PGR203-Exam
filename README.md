@@ -1,4 +1,3 @@
-![Java CI with Maven](https://github.com/kristiania/pgr203eksamen-97krihop/workflows/Java%20CI%20with%20Maven/badge.svg?branch=main) | [Github Actions](https://github.com/kristiania/pgr203eksamen-97krihop/actions)
 
 # PGR203 exam HTTP Server 
 ## Description:
